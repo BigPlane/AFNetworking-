@@ -1,0 +1,1 @@
+通过网络请求工具类CHHTTPTool, 对AFNetworking框架的POST和GET方法简单封装
